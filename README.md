@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there I'am a Coder who loves to watch Anime, Reading mangas and manhwas, and `Importantly I love Tech`div >
+![IMG_20210930_145450_829](https://github.com/sengokusan/sengokusan/assets/144834952/65d6b7cc-7012-4837-baed-5e968d5632ab)
+
+
+## I love Free Open Source Software With an amazing Community
+![3332b661d09bf56d93fb6ed7c8af3e31](https://github.com/sengokusan/sengokusan/assets/144834952/f25111c7-5fa6-4180-86c6-911fe5b8e207)
+
+---
+### 👯 I’m looking to collaborate on ... ReactJS, NodeJS, JavaScript, Typescript, Supabase.
 
 <!--
 **sengokusan/sengokusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
